@@ -1,0 +1,4 @@
+# Kafka Beginners Course
+
+## Setup
+
